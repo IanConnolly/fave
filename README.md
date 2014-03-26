@@ -14,6 +14,6 @@ Stick your API + access keys in config.json
 
 run
 
-```node bin/fave.js```
+```node bin/fave.js <phrase>```
 
 fave all the tweets etc.
