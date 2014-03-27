@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var config = require('../config.json');
 var Twit = require('twit');
 var argv = require('yargs').demand(1).argv;

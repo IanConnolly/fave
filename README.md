@@ -6,7 +6,7 @@ this code.
 
 ## Usage
 
-```npm install fave```
+```npm install -g fave```
 
 Create a twitter application and generate an access key.
 
@@ -14,6 +14,6 @@ Stick your API + access keys in config.json
 
 run
 
-```node bin/fave.js <phrase>```
+```fave <phrase>```
 
 fave all the tweets etc.
