@@ -1,8 +1,13 @@
 {
   "name": "fave",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "listens for tweets at a given keyword, faves them",
   "main": "bin/fave.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nsno/fave.git"
+  },
+  "homepage": "http://github.com/nsno/fave",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
