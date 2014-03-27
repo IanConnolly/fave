@@ -6,7 +6,7 @@ this code.
 
 ## Usage
 
-```npm install```
+```npm install fave```
 
 Create a twitter application and generate an access key.
 
